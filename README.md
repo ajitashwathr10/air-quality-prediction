@@ -1,2 +1,2 @@
-# air-quality-prediction
+# Air Quality Prediction (Python & R)
  
